@@ -1,4 +1,4 @@
-# Spring Boot Modular Backbone Example
+# Spring Boot Modular Backbone Example  [![Build Status](https://travis-ci.org/haycco/spring-boot-backbone-example.svg?branch=master)](https://travis-ci.org/haycco/spring-boot-backbone-example)
 
 Project's goal is to provide a spring-boot maven java structure of the Backbone application using RequireJS and up-to-date dependencies.
 
